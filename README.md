@@ -15,6 +15,6 @@ $ images
 
 - Photo by Luca Bravo (https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
 
-#Note
+# Note
 
 This project is comes under open source license. Feel free to fork and edit. 
